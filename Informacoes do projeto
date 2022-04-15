@@ -1,0 +1,16 @@
+
+• Comando para execução do projeto:
+ ./mvnw spring-boot:run
+
+• Abrir a página navegador:
+    http://localhost:8080/
+
+• Abrir a página swagger:
+ http://localhost:8080/swagger-ui.html
+
+ • URL Abrir com DB-H2:
+  http://localhost:8080/h2-console
+
+ • Configurações para banco de dados H2:
+ https://gasparbarancelli.com/post/banco-de-dados-h2-com-spring-boot
+
